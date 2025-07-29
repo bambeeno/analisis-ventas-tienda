@@ -1,8 +1,8 @@
-# 🏪 Análisis de Ventas de Tienda Online
+#  Análisis de Ventas de Tienda Online
 
 Un proyecto completo de análisis de datos que utiliza **Python** y **SQL** para analizar datos de ventas de una tienda online. Este proyecto demuestra habilidades fundamentales para un analista de datos, incluyendo extracción de datos, análisis estadístico y visualización de resultados.
 
-## 🎯 Objetivo del Proyecto
+##  Objetivo del Proyecto
 
 Analizar datos de ventas para identificar:
 - Tendencias de ventas y patrones de compra
@@ -11,7 +11,7 @@ Analizar datos de ventas para identificar:
 - Métricas clave del negocio (KPIs)
 - Oportunidades de crecimiento y optimización
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 - **Python 3.x** - Lenguaje principal de programación
 - **SQLite** - Base de datos relacional para almacenar los datos
@@ -20,7 +20,7 @@ Analizar datos de ventas para identificar:
 - **Seaborn** - Visualizaciones estadísticas avanzadas
 - **NumPy** - Operaciones numéricas y estadísticas
 
-## 📊 Análisis Realizados
+##  Análisis Realizados
 
 ### 1. Métricas Generales del Negocio
 - Ventas totales y número de pedidos
@@ -65,7 +65,7 @@ analisis_ventas_tienda/
 └── README.md                     # Documentación del proyecto
 ```
 
-## 🚀 Cómo Ejecutar el Proyecto
+##  Cómo Ejecutar el Proyecto
 
 ### Prerrequisitos
 - Python 3.7 o superior
@@ -103,7 +103,7 @@ python scripts/analisis_ventas.py
 python scripts/visualizaciones.py
 ```
 
-## 📈 Resultados Principales
+##  Resultados Principales
 
 ### Métricas Clave del Negocio
 - **Ventas Totales:** €160,323.98
@@ -125,7 +125,7 @@ python scripts/visualizaciones.py
 - **Ropa:** 10.8% de las ventas totales
 - **Libros:** 3.5% de las ventas totales
 
-## 📊 Visualizaciones Generadas
+##  Visualizaciones Generadas
 
 El proyecto genera automáticamente 5 visualizaciones principales:
 
@@ -135,7 +135,7 @@ El proyecto genera automáticamente 5 visualizaciones principales:
 4. **Tendencia Temporal** - Evolución de ventas en el tiempo
 5. **Segmentación de Clientes** - Análisis visual de segmentos de clientes
 
-## 🔍 Insights y Conclusiones
+##  Insights y Conclusiones
 
 ### Hallazgos Principales:
 - Los productos electrónicos dominan las ventas con más del 70% de los ingresos
@@ -149,7 +149,7 @@ El proyecto genera automáticamente 5 visualizaciones principales:
 - Analizar oportunidades de cross-selling entre categorías
 - Implementar estrategias para aumentar la frecuencia de compra
 
-## 🎓 Habilidades Demostradas
+##  Habilidades Demostradas
 
 Este proyecto demuestra competencias clave para un analista de datos:
 
@@ -165,7 +165,7 @@ Este proyecto demuestra competencias clave para un analista de datos:
 - Generación de insights accionables
 - Documentación técnica y presentación de resultados
 
-## 🔄 Próximas Mejoras
+##  Próximas Mejoras
 
 - [ ] Implementar análisis de cohortes de clientes
 - [ ] Añadir predicciones de ventas con machine learning
@@ -173,18 +173,16 @@ Este proyecto demuestra competencias clave para un analista de datos:
 - [ ] Integrar datos de múltiples fuentes
 - [ ] Automatizar reportes periódicos
 
-## 📞 Contacto
+##  Contacto
 
-**Tu Nombre**
-- LinkedIn: [tu-perfil-linkedin]
-- Email: tu-email@ejemplo.com
-- GitHub: [tu-usuario-github]
+**BambeenoGrassetto**
+- LinkedIn: []
+- Email: bambeenograssetto@gmail.com
+- GitHub: [bambeenograssetto]
 
 ---
 
-⭐ Si este proyecto te resulta útil, ¡no olvides darle una estrella!
-
-## 📄 Licencia
+## Licencia
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
 
